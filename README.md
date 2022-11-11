@@ -1,2 +1,2 @@
-# Music-Genre-Classification
-Miniproject for Machine Intelligence: UE20CS302
+# Music Genre Classification using LSTM
+
